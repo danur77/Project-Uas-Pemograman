@@ -10,8 +10,8 @@ https://drive.google.com/file/d/1-LSqcZkSkSdZeYM9PufZ47DXR5I7aluj/view?usp=drive
 
 ## Penjelasan Program berupa video youtube, silahkan mengunjungi link berikut:
 
-https://youtube.com/watch?v=4mvzF4pvX_Y&si=EnSIkaIECMiOmarE
+https://youtu.be/aKfKfxjj7QU
 
 ## Berikut tautan repository github:
 
-https://github.com/avrillianur20/UAS
+https://github.com/danur77/Uas-Pemograman.git
