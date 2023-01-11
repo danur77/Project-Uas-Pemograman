@@ -6,7 +6,7 @@
 
 ## Penjelasan program berupa pdf,silahkan mengunjungi link berikut:
 
-https://drive.google.com/file/d/1-LSqcZkSkSdZeYM9PufZ47DXR5I7aluj/view?usp=drivesdk
+https://drive.google.com/drive/folders/1FS9oW8aeDghUsZtrgRvmsrsrmKkgYv9Y
 
 ## Penjelasan Program berupa video youtube, silahkan mengunjungi link berikut:
 
